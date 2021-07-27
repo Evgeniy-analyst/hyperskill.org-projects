@@ -1,0 +1,3 @@
+https://github.com/hyperskill/hs-test-python/archive/release.tar.gz
+hs-test-python==4.0.0
+psutil==5.8.0
